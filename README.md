@@ -1,5 +1,3 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on Mosaik.info our churchwebsite
-- 🌱 I’m currently learning react and flask
-
+My name is Tobias and I'm a coder with design/3D background.
+This is my playground where I test what I've learned so far.
