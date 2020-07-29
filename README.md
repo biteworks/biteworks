@@ -1,2 +1,2 @@
 ### Hi there 👋
-[//]: # ![alt text](https://tobiaswilhelm.com/apps/generated-svg/?)
+![alt text](https://tobiaswilhelm.com/apps/generated-svg/?)
