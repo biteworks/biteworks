@@ -3,7 +3,7 @@
 ### About
 I'm Tobias aka Biteworks. I am developing web apps, websites and simple desktop apps in my spare time.
 
-Technologies I am currently using are:
+**Technologies I am currently using are**
 * PHP
 * JS (VanillaJS, React and VueSJ)
 * Python (mostly to automate or in Blender)
@@ -18,8 +18,7 @@ I believe that open source software offers great possibilities and therefore I m
 Sharing knowledge moves everyone forward. This applies both in private and in professional life. I am convinced that there is no disadvantage in sharing what I have learned, because I also reflect on what I know.
 
 ### Update
-Brand new I started with Blender addon development and I'm looking forward to make my everyday life easier and learn new things with it.
-
-I developed a small addon for blender called [LittleHelpers Addon](https://github.com/biteworks/littlehelpersaddon) and forked [RenderBurst](https://github.com/biteworks/RenderBurst) to bring it to the next level.
+Brand new I started with [Blender](https://blender.org) addon development and I'm looking forward to make my everyday life easier and learn new things with it.
+I developed a small addon for Blender called [LittleHelpers Addon](https://github.com/biteworks/littlehelpersaddon) and forked [RenderBurst](https://github.com/biteworks/RenderBurst) to bring it to the next level.
 
 <!--- ![alt text](https://tobiaswilhelm.com/apps/generated-svg/?) -->
