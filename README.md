@@ -10,8 +10,10 @@ Technologies I am currently using are
 
 I have a design background and work during the day in 3D visualization. Clear design and usability are important for me. Technology should not be a barrier and should not be used as an end in itself.
 
-### Manifest
-I believe that open source software offers great possibilities and therefore I make many of my projects open source. Especially my "littlehelpers" (e.g. the CopyFolderTool) will be developed open source in the future.
+### "Manifest" (kinda)
+I believe that open source software offers great possibilities and therefore I make many of my projects open source. 
+
+Sharing knowledge moves everyone forward. This applies both in private and in professional life. I am convinced that there is no disadvantage in sharing what I have learned, because I also reflect on what I know.
 
 ### Update
 Brand new I started with Blender addon development and I'm looking forward to make my everyday life easier and learn new things with it.
