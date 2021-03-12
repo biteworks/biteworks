@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+### About
 I'm Tobias aka Biteworks. I am developing web apps, websites and simple desktop apps in my spare time.
 Technologies I am currently using are 
 * PHP
@@ -8,8 +10,12 @@ Technologies I am currently using are
 
 I have a design background and work during the day in 3D visualization. Clear design and usability are important for me. Technology should not be a barrier and should not be used as an end in itself.
 
+### Manifest
 I believe that open source software offers great possibilities and therefore I make many of my projects open source. Especially my "littlehelpers" (e.g. the CopyFolderTool) will be developed open source in the future.
 
+### Update
 Brand new I started with Blender addon development and I'm looking forward to make my everyday life easier and learn new things with it.
+
+I developed a small addon for blender called [LittleHelpers Addon](https://github.com/biteworks/littlehelpersaddon) and forked [RenderBurst](https://github.com/biteworks/RenderBurst) to bring it to the next level.
 
 <!--- ![alt text](https://tobiaswilhelm.com/apps/generated-svg/?) -->
