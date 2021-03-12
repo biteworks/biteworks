@@ -2,11 +2,13 @@
 
 ### About
 I'm Tobias aka Biteworks. I am developing web apps, websites and simple desktop apps in my spare time.
-Technologies I am currently using are 
+
+Technologies I am currently using are:
 * PHP
 * JS (VanillaJS, React and VueSJ)
+* Python (mostly to automate or in Blender)
 * C#/WPF
-* Python (e.g. in Blender)
+* Bash
 
 I have a design background and work during the day in 3D visualization. Clear design and usability are important for me. Technology should not be a barrier and should not be used as an end in itself.
 
